@@ -3,7 +3,7 @@
 #include <algorithm>
 using namespace std;
 
-char str[100];
+char str[108];
 
 bool ispa(int i,int j)
 {
